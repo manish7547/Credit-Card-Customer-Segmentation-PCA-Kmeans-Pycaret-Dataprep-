@@ -3,6 +3,7 @@
 PyCaret is an open-source, low-code machine learning library and end-to-end model management tool built-in Python for automating machine learning workflows. It is incredibly popular for its ease of use, simplicity, and ability to build and deploy end-to-end ML prototypes quickly and efficiently.
 PyCaret is an alternate low-code library that can be used to replace hundreds of lines of code with few lines only. This makes the experiment cycle exponentially fast and efficient.
 PyCaret is simple and easy to use. All the operations performed in PyCaret are sequentially stored in a Pipeline that is fully automated for deployment. Whether it’s imputing missing values, one-hot-encoding, transforming categorical data, feature engineering, or even hyperparameter tuning, PyCaret automates all of it.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Dataprep
 As the name suggests DataPrep, the preparation of data. The DataPrep is developed by a group of SFU data science researchers to speed up data science operations. it helps us to simplify the EDA operations in little bit lines of code it means that we don’t need to write lots of stuff code apart from that we only need to write one or two lines of code and EDA will perform.
