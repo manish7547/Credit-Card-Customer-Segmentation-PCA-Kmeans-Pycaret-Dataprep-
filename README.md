@@ -1,3 +1,5 @@
+# Note:
+Plots doesn't work on github cause github does not support dynamic output that uses javascripts , custom CSS ,etc Or when we view the notebook locally it is probaly linked to an Ipython kernel, so python is used to display the graphs.when we view it on github there is no Ipython kernel so graphs cannot be generated.Only simple static figures.
 # Pycaret-Dataprep
 
 PyCaret is an open-source, low-code machine learning library and end-to-end model management tool built-in Python for automating machine learning workflows. It is incredibly popular for its ease of use, simplicity, and ability to build and deploy end-to-end ML prototypes quickly and efficiently.
